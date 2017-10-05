@@ -1,5 +1,5 @@
 html {
-  background-color: #f2f1ed;
+  background-color: #brightred;
   font-family: Georgia, Serif;
   line-height: 1.5;
 }
