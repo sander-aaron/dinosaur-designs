@@ -14,7 +14,7 @@ a:link {
 }
 a:hover {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   color: #b42885;
 }
 h1 {
@@ -28,4 +28,7 @@ h2 {
 figcaption {
   text-align: center;
   font-style: italic;
+}
+.intro {
+  font-size: 1.2rem;
 }
