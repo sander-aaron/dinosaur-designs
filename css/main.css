@@ -30,11 +30,11 @@ h2 {
   text-transform: uppercase;
 }
 
-figurecaption {
+figure {
   text-align: center;
   font-style: italic;
 }
 
-.intro {
+figure .intro {
   font-size: 1rem;
 }
