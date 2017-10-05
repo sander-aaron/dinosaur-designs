@@ -3,6 +3,9 @@ html {
   font-family: 'Patua One', cursive;
   line-height: 1.5;
 }
+h1, h2,{
+  color: #5d8432;
+}
 a,
 a:link {
   font-weight: bold;
