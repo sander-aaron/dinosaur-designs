@@ -3,3 +3,14 @@ html {
   font-family: Georgia, serif;
   line-height: 1.5;
 }
+a,
+a:link {
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #793284;
+}
+a:hover {
+  font-weight: bold;
+  font-size: 1.125rem;
+  hovercolor: #b42885;
+}
