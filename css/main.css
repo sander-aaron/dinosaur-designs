@@ -5,15 +5,6 @@ html {
 }
 img {
   width: 100%;
-}
-h1 {
-  color: #5d8432;
-  text-transform: uppercase;
-}
-h2 {
-  color: #5d8432;
-  text-transform: uppercase;
-}
 a,
 a:link {
   font-weight: bold;
@@ -24,4 +15,16 @@ a:hover {
   font-weight: bold;
   font-size: 1.125rem;
   color: #b42885;
+}
+h1 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+figcaption {
+  text-align: center;
+  font-style: italic;
 }
