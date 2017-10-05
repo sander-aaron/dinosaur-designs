@@ -22,7 +22,6 @@ a:hover {
 h1 {
   color: #5d8432;
   text-transform: uppercase;
-  list-style-type: square;
 }
 
 h2 {
@@ -30,10 +29,14 @@ h2 {
   text-transform: uppercase;
 }
 
+nav {
+  list-style-type: square;
+}
+
 figure {
   text-align: center;
   font-style: italic;
-  font-size: .5rem
+  font-size: .75rem:
 }
 
 figure.intro {
