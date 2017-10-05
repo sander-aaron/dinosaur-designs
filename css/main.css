@@ -8,6 +8,11 @@ img {
 }
 h1 {
   color: #5d8432;
+  text-transform: uppercase;
+}
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
 }
 a,
 a:link {
