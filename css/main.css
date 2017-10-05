@@ -33,8 +33,9 @@ h2 {
 figure {
   text-align: center;
   font-style: italic;
+  font-size: .5rem
 }
 
-figure .intro {
+figure.intro {
   font-size: 1rem;
 }
